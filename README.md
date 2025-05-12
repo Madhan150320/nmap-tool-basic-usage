@@ -1,10 +1,5 @@
 # nmap-tool-basic-usage
 A collection of Nmap commands, usage examples, and scanning techniques for cybersecurity learning and assessment.
-Great idea! Adding **Nmap usage content to GitHub** can showcase your learning or project work to others—especially for cybersecurity, ethical hacking, or network scanning portfolios.
-
-Here’s how you can structure your **GitHub README** to present Nmap tool usage professionally:
-
----
 
 🔍 Nmap Tool – Network Scanning & Security Auditing
 
